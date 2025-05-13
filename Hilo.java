@@ -7,7 +7,6 @@ public class Hilo{
 
         do {
             int theNumber = (int) (Math.random() * 100 + 1);
-            // System.out.println(theNumber); // Remove this for the actual game
             int guess = 0;
             int attempts = 0;
 
